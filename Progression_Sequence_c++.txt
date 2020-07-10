@@ -2,7 +2,6 @@
 //88p_2.2.3_C++에서_상속의_예제
 //점차적으로 진행하는 수열을 출력하는 몇 클래스들을 갖는 예를 고려하자.
 
-
 #include <iostream>
 using namespace std;
  
