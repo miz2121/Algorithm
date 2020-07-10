@@ -1,3 +1,5 @@
+//C++로 구현하는 자료구조와 알고리즘 한티에듀
+//88p_2.2.3_C++에서_상속의_예제
 #include <iostream>
 using namespace std;
  
